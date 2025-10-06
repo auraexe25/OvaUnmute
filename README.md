@@ -14,17 +14,6 @@ My platform is being built with several key features to provide holistic support
 * **❤️ Personalized Suggestions:** Provides mood-based lifestyle suggestions, such as recommending comfort food, music, or breathing exercises to help users feel supported daily.
 * **💬 Anonymous Regional Chatbot:** A safe and anonymous chatbot available in multiple Indian languages to answer questions about PCOS, periods, and emotional health.
 
-## 🛠️ Tech Stack
-
-This project is being developed with a robust and modern tech stack:
-
-* **Frontend (Mobile):** React Native
-* **Frontend (Web):** Next.js / React.js
-* **Backend:** Python (FastAPI / Django)
-* **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Rasa
-* **Database:** PostgreSQL & MongoDB
-* **Deployment & Tools:** Docker, AWS/GCP, Postman, VS Code, Git
-
 ## 🚀 Getting Started
 
 To get a local copy of this project up and running for development or testing, follow these simple steps.
